@@ -1,31 +1,26 @@
 ## Hi, I'm Jack 👋
 
-I'm a master's student at **Carnegie Mellon University**, studying AI Engineering
-and Biomedical Engineering. I work at the intersection of machine learning and
-healthcare, with a focus on **AI-driven diagnostics**.
+I'm a master's student at **Carnegie Mellon University** (AI Engineering), building machine learning systems and AI agents — from training vision models to designing multi-agent pipelines that reason over real-world data.
 
-### 🔬 What I work on
+### ⚙️ What I build
 
-I'm interested in using deep learning and image processing to make diagnostic
-tools more accurate, more accessible, and more useful in real clinical settings.
-My projects so far have spanned two main areas:
+I care about the full stack: not just training a model, but getting it to *do something useful* — integrated into a system, grounded with retrieval, and robust enough for production.
 
-- **Medical imaging** — ultrasound-based methods for tumor characterization and
-  atherosclerotic plaque rupture risk prediction.
-- **Wound assessment** — automated severity staging for open wound conditions
-  such as diabetic foot ulcers and pressure injuries.
+Recent work includes:
 
-Most of my work combines classical image processing with modern deep learning
-(CNNs, ViTs, segmentation models), and I care a lot about understanding *why*
-a model works — not just whether it does.
+- **AI agents & LLM pipelines** — agentic architectures with LLM orchestrators, specialist vision tools, RAG over domain knowledge bases, and verifier layers for output validation.
+- **Vision models** — classification and segmentation with CNNs, ViTs, and foundation models (SAM, Depth Anything); end-to-end from data curation to ablation studies.
+- **Medical imaging** — ultrasound signal processing, super-resolution localization microscopy, and tumor/plaque characterization. Most of this work lives closer to the research side.
+
+A lot of my projects touch healthcare, which pushes me to care about things like clinical validation, human-in-the-loop design, and interpretability — constraints that make ML engineering more rigorous, not just more niche.
 
 ### 🛠 Tech I use
 
-Python · PyTorch · NumPy · OpenCV · Jupyter · LaTeX · MATLAB
+Python · PyTorch · LangGraph · ChromaDB · OpenCV · NumPy · MATLAB
 
 ### 📌 Featured projects
 
-Take a look at the pinned repositories below — happy to chat about any of them.
+Pinned below — happy to talk through any of them.
 
 ### 📫 Get in touch
 
