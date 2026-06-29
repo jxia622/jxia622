@@ -14,10 +14,6 @@ Recent work includes:
 
 A lot of my projects touch healthcare, which pushes me to care about things like clinical validation, human-in-the-loop design, and interpretability — constraints that make ML engineering more rigorous, not just more niche.
 
-### 🛠 Tech I use
-
-Python · PyTorch · LangGraph · ChromaDB · OpenCV · NumPy · MATLAB
-
 ### 📌 Featured projects
 
 Pinned below — happy to talk through any of them.
